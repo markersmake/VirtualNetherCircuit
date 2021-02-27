@@ -1,2 +1,2 @@
 # VirtualNetherCircuit
-VNC scanner that pulls screenshots of login screen automagically
+VNC scanner that scans for open VNC ports and pulls screenshots of login screen automagically
